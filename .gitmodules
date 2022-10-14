@@ -1,0 +1,3 @@
+[submodule "molt"]
+	path = molt
+	url = git@github.com:Kjolnyr/molt.git

@@ -1,0 +1,7 @@
+---
+bot_name: Golem
+bot_token: <your discord bot token>
+bot_owners:
+  - 0123 # Your discord user id
+proc_path: data/procs.json
+vars_path: data/vars.json
